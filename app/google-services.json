@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842015468962",
+    "project_id": "coguard-health2",
+    "storage_bucket": "coguard-health2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842015468962:android:f59a3d2c7a6f28f84396fb",
+        "android_client_info": {
+          "package_name": "app.coguard.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842015468962-hlqm7k0g1vh04i0h8bl2ldd97gi44es8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbdoQWPNWQsglmVKkeX7yoG3SYFU87y-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842015468962-hlqm7k0g1vh04i0h8bl2ldd97gi44es8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
